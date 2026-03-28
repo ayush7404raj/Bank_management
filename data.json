@@ -1,0 +1,34 @@
+[
+    {
+        "name": "ayush ",
+        "age": 21,
+        "email": "ayush@gmail.com",
+        "pin": 5645,
+        "accountNo.": "5e35CE*",
+        "balance": 0
+    },
+    {
+        "name": "ayush",
+        "age": 21,
+        "email": "ayush@gmail.com",
+        "pin": 1234,
+        "account": "!hYY002",
+        "balance": 0
+    },
+    {
+        "name": "raj ",
+        "age": 87,
+        "email": "raj@gmil,.com",
+        "pin": 1234,
+        "account": "a&80C9D",
+        "balance": 0
+    },
+    {
+        "name": "ghjk",
+        "age": 20,
+        "email": "aysu@gm",
+        "pin": 1357,
+        "account": "4UGN955",
+        "balance": 0
+    }
+]
